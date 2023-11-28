@@ -1,7 +1,7 @@
 # Cancer Classification
 https://github.com/kymayodeji/cancer_classification
 
-
+![Image of FNA benign and malignant mass](https://github.com/kymayodeji/cancer_classification/blob/main/semanticscholar.png)
 ## Objective
 The objective of the analysis is to determine an optimal classification prediction model to use to detect breast cancer using the results of various fine needle aspirations (FNA) of patient breast masses. By predicting whether a tissue sample of a mass malignant or benign will allow the stakeholders (physicians and patients), to determine the next course of medical intervention if needed. 
 
